@@ -1,1 +1,75 @@
-/* Write your CSS here! */
+header {
+  background-color: yellowgreen;
+  position: relative;
+  height: 100px;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: white;
+  font-family: "Bitter", serif;
+  font-size: 12pt;
+  font-weight: 400;
+  color: #222;
+  width: 100vw;
+  height: 100vh;
+  margin: 8px;
+  padding: 0px;
+  overflow-x: hidden;
+  display: block;
+}
+
+h1 {
+  font-family: "Satisfy", cursive;
+  font-size: 2rem;
+  text-align: center;
+}
+h2 {
+  font-family: "Satisfy", cursive;
+  font-size: 1rem;
+  text-align: center;
+}
+h3 {
+  font-size: 1.5rem;
+  font-family: "Satisfy", cursive;
+  color: #f1c40f;
+}
+
+h4 {
+  font-family: "Satisfy", cursive;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #f1c40f;
+  margin: 5px;
+}
+.testP {
+  color: green;
+  text-align: justify;
+  margin: 15px 0px;
+}
+.intro {
+  text-align: justify;
+  margin: 15px 0px;
+  color: green;
+}
+
+hr {
+  height: 0.7rem;
+  background-color: #f1c40f;
+  border: none;
+  margin: 0px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: #e5e5e5;
+}
+
+.width30 {
+  width: 400px;
+  height: 300px;
+}
