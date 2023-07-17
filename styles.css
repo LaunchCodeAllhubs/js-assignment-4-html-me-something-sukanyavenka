@@ -42,9 +42,16 @@ h4 {
   color: #f1c40f;
   margin: 5px;
 }
-p {
+.intro {
   text-align: justify;
   margin: 15px 0px;
+  color: green;
+}
+.wp-block-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
 }
 hr {
   height: 0.7rem;
